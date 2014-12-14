@@ -1,6 +1,4 @@
-# maven integration test example
-
-## OS and other soft version
+## maven integration test example
 
 ### OS
 * OS name: "linux", version: "3.13.0-24-generic", arch: "amd64", family: "unix"
